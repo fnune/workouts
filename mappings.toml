@@ -1,0 +1,18 @@
+# Maps display name to free-exercise-db id.
+# Display name -> slug is automatic (lowercased, non-alphanumeric -> '-').
+# Find ids with: scripts/search.sh <term>
+# Source: https://github.com/yuhonas/free-exercise-db
+
+"Band Goblet Squat"      = "Squats_-_With_Bands"
+"Single-Leg Romanian Deadlift" = "Kettlebell_One-Legged_Deadlift"
+"Bulgarian Split Squat"  = "Split_Squat_with_Dumbbells"
+"Banded Knee Drive"      = "Hip_Flexion_with_Band"
+"Suitcase Hold / March"  = "Farmers_Walk"
+"Neck Isometrics"        = "Isometric_Neck_Exercise_-_Front_And_Back"
+
+"Band Lat Pulldown"      = "Wide-Grip_Lat_Pulldown"
+"Band Overhead Press"    = "Shoulder_Press_-_With_Bands"
+"Band Row (towel grip)"  = "Seated_Cable_Rows"
+"Push-up"                = "Pushups"
+"Pallof Press"           = "Pallof_Press"
+"Band Pull-Apart"        = "Band_Pull_Apart"
